@@ -1,7 +1,6 @@
 # PC-Crashing-Bat
 PC Crashing Bat
 
-Mouse Crack
 
 Step 1 : Open the notepad
 
