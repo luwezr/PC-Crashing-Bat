@@ -1,3 +1,6 @@
+THIS IS A JOKE VIRUS
+
+
 %Xul%
 @Echo off > Nul.Xul
 @Rundll32 user32,LockWorkStation
